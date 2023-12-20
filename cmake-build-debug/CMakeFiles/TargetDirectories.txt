@@ -1,0 +1,3 @@
+C:/Users/Heros/CLionProjects/Big_fib/cmake-build-debug/CMakeFiles/Big_fib.dir
+C:/Users/Heros/CLionProjects/Big_fib/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Heros/CLionProjects/Big_fib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
